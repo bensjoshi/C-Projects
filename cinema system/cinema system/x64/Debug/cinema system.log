@@ -1,0 +1,4 @@
+﻿  cinema system.cpp
+C:\Users\bensj\Desktop\cinema system - Copy\cinema system\cinema system\cinema system.cpp(54): warning C4715: 'MovieSelect': not all control paths return a value
+C:\Users\bensj\Desktop\cinema system - Copy\cinema system\cinema system\cinema system.cpp(86): warning C4715: 'timeselect': not all control paths return a value
+  cinema system.vcxproj -> C:\Users\bensj\Desktop\cinema system - Copy\cinema system\x64\Debug\cinema system.exe
